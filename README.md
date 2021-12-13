@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,app development and cyber security
 - 🌱 I’m  B.Tech(Computer Science and Engineering) third year student at Indain Institute of Information Technology, Guwahati
 - 📫 How to reach me ...
-<br><a href = 'https://www.linkedin.com/in/vikash-rajput-b39a19143'> linkedIn_Profile </a><br>
+
 
 
 <!---
