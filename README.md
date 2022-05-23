@@ -1,5 +1,7 @@
 - 👋 Hi, I’m  Vikash Rajput
-- 👀 I’m interested in web development,app development and cyber security
+- 👀 I’m interested in web development.
+-   Skilled in - C,C++,python, java, HTML ,CSS ,Javascript, React, Node, MySQL
+-   Data Structure and Algorithm 
 - 🌱 I’m  B.Tech(Computer Science and Engineering) third year student at Indain Institute of Information Technology, Guwahati
 - 📫 How to reach me ...
 
