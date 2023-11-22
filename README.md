@@ -1,4 +1,3 @@
 - 👋 Hi, I’m  Vikash Rajput
--   Skilled in - C,C++,python, HTML ,CSS ,Javascript, Flask, MySQL
--   Data Structure and Algorithms
-- 🌱 I’m  B.Tech(Computer Science and Engineering) third year student at Indain Institute of Information Technology, Guwahati
+
+
