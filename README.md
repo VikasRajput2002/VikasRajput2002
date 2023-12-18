@@ -1,3 +1,1 @@
-- 👋 Hi, I’m  Vikash Rajput
-
-
+- 👋 Hi, I’m  Vikash Rajput from Etah, Uttar-Pradesh. Currently I am working as a Software Engineer at CGI. I have completed my B.Tech in Computer Science and Engineering from Indian Institute of Information, Guwahati.
